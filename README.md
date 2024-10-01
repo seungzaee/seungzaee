@@ -1,7 +1,7 @@
 <div align="center"> 
-  
-####  👋 Welcome my github profile !
 
+####  👋 Welcome my github profile !
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungzaee&count_bg=%2398B582&title_bg=%235B625A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 <br/>
 

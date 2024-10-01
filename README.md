@@ -34,7 +34,8 @@
 <br/>
 
 #### 🔗 Link to 🔗
-<a href="https://seungzaee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+<a href="https://seungzaee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC4815?style=plastic&logo=Tistory&logoColor=white"></a>
+<a href="mailto:kxm010122@naver.com"><img src="https://img.shields.io/badge/Gmail-76BB21?style=plastic&logo=Gmail&logoColor=white&link=mailto:kxm010122@naver.com"/></a>
 
 </div>
 

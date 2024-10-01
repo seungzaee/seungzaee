@@ -2,6 +2,7 @@
 
 ###  👋 Welcome my github profile !
 
+
 #### 💻 KYUNGPOOK NATIONAL UNIVERSITY CSE
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungzaee&count_bg=%2398B582&title_bg=%235B625A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
@@ -28,6 +29,12 @@
 <a href="https://solved.ac/kxm010122/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kxm010122" alt="Solved.ac Profile" />
 </a>
+
+<br/>
+<br/>
+
+#### 🔗 Link to 🔗
+<a href="https://seungzaee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 
 </div>
 

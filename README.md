@@ -2,13 +2,11 @@
 
 # 👋 seungzaee
 
-## Computer Science Engineering
-### Kyungpook National University
-
+## CSE in Kyungpook National University
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,fastapi,supabase,github,vercel" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,html,css,react,fastapi,supabase,github,vercel" />
 
 <br/>
 <br/>

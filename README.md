@@ -2,17 +2,9 @@
 
 # 👋 seungzaee
 
-### Computer Science Student  
-Kyungpook National University
+## Computer Science Engineering
+### Kyungpook National University
 
-<br/>
-
-I enjoy building practical services and learning through projects.  
-Interested in web development, backend systems, data, and AI-powered features.
-
-<br/>
-
----
 
 ## Tech Stack
 
